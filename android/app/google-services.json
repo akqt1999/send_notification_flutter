@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "184593217324",
+    "project_id": "sendnotificationflutter",
+    "storage_bucket": "sendnotificationflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184593217324:android:e73d6f94ef40e5b8bf1e89",
+        "android_client_info": {
+          "package_name": "com.example.send_notification_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184593217324-6hsfr94m8k5922rjgk46ps3knl01usg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXMaJugXyRbP-xrOYV55CG-9e3t63lw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184593217324-6hsfr94m8k5922rjgk46ps3knl01usg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
